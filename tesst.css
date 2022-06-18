@@ -1,0 +1,13 @@
+
+.boxx {
+    width: 900px;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+.box{
+    width: 75%;
+    background-color: brown;
+    height: 200px;
+    margin: 0 auto;
+}
